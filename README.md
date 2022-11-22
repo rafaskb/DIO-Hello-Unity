@@ -1,5 +1,3 @@
-# Hello-Unity
- Rolling Ball
+# Repositório Movido
 
-# WebGL Build
-https://play.unity.com/mg/other/webgl-builds-246002
+Acesse https://github.com/digitalinnovationone/trilha-unity/ para ter acesso a este repositório atualizado, assim como todos os outros repositórios que fazem parte da mesma trilha educacional.
